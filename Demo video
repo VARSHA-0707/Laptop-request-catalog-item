@@ -1,0 +1,23 @@
+# 🎥 Demo Video: Laptop Request Catalog Item
+
+This folder contains the demonstration video for the **Laptop Request Catalog Item** project, showcasing its functionality within the ServiceNow platform.
+
+---
+
+## 📘 About the Demo
+
+
+The demo video showcases the major functionalities of the catalog item, demonstrating:
+
+* Dynamic field handling through UI Policies
+* Form reset capability implemented using Client UI Action
+* The overall submission journey and user interaction flow
+* Governance and change tracking through Update Sets
+
+This video was prepared to aid project evaluation and to visually present how the solution functions in real-time.
+
+---
+
+## 🔗 Demo Video Link
+
+Watch the demo here: [Laptop Request Catalog Item – Demo Video](https://drive.google.com/drive/folders/1AXzuhRKm4pOLjpT6BtWVTrmt2oBltP4B)
